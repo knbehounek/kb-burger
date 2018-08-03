@@ -1,3 +1,3 @@
-CREATE DATABASE todolist;
-USE todolist;
+CREATE DATABASE burgers_db;
+USE burgers_db;
 
